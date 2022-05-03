@@ -35,7 +35,7 @@ python make_up.py --input_image ./img/input/458.jpg --output_image ./img/makeup/
 <img src="img/makeup/458.jpg" width="300px"/>
 </p>
 
-This example change the hair color. Other parts,such as lips can also be changed. 
+This example change the hair color. Other parts, such as lips, can also be changed. 
 
 ## Acknowledgements
 
