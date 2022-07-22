@@ -8,7 +8,7 @@ Changqian Yu, Jingbo Wang, Chao Peng, Changxin Gao, Gang Yu, Nong Sang. In [ECCV
 </p>
 
 ## Notes
-We implement the semantic segmentation and make-up for facial images. Download the weights and put them in `./checkpoints/`
+We implement the semantic segmentation and make-up for facial images. The official weights are converted to jittor. Download the weights and put them in `./checkpoints/`
 
 The Google Drive link: https://drive.google.com/drive/folders/11Z5hTWku3ARkTJOmtnoWpKMqTwKF7V1i?usp=sharing
 
